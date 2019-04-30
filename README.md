@@ -1,6 +1,6 @@
 # apns
 
-Plugin to implement APNS push notifications on iOS and Firebase on Android. 
+Plugin to implement APNS push notifications on iOS. 
 
 ## Why this plugin was made?
 
